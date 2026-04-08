@@ -1,1 +1,11 @@
 *.class
+*.exe
+FETCH_HEAD
+cd
+git
+java
+javac
+mkdir
+notepad
+main
+UC1-TrainInitialization
